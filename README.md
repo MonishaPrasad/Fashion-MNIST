@@ -1,0 +1,2 @@
+# Fashion-MNIST
+Fashion MNIST is an image dataset of various articles of clothing and accessories. It consists of 70,000 images in total, out of which 60,000 images belong to the training set and 10,000 images belong to the test set. The images are of size 28×28. The main objective here is to classify the images in Fashion MNIST dataset and determine to which among the 10 classes an input image belongs to. The classes are - T shirt, Trouser, Pullover, Dress, Coat, Sandal, Shirt, Sneaker, Bag and Ankle Boot.
